@@ -5,3 +5,7 @@ extracted_videos.json
 yt_data.json
 .vscode/
 .idea/
+
+# Ignore user assets
+有用資料/
+有用資料
