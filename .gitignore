@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+extracted_videos.json
+yt_data.json
+.vscode/
+.idea/
